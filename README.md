@@ -24,6 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sucheeth-v&show_icons=true&locale=en&layout=compact" alt="sucheeth-v" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sucheeth-v&show_icons=true&locale=en" alt="sucheeth-v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sucheeth-v&" alt="sucheeth-v" /></p>
-
+<em><h5>AWS Certified Cloud Practitioner</h5></em>
+<div align="center"><img src="https://github.com/SUCHEETH-V/SUCHEETH-V/blob/main/certification/aws-certification.jpg"> </div>
+<em><h5>Google Cloud Certified Cloud Digital Leader</h5></em>
+<div align="center"> <img src="https://github.com/SUCHEETH-V/SUCHEETH-V/blob/main/certification/gcp-cdl-certification.jpg"> </div>
